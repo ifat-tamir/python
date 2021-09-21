@@ -1,2 +1,2 @@
-adress = input("please enter your street name: ")
-print("your address is: "+ adress)
+address = input("please enter your street name: ")
+print("your address is: " + address)
