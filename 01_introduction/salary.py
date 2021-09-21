@@ -1,0 +1,6 @@
+hours = input("please type working hours: ")
+hours = float(hours)
+rate = input("please type working rate: ")
+rate = float(rate)
+salary = str (rate*hours)
+print("salary: " +salary)
